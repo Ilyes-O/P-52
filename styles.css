@@ -48,7 +48,6 @@ a:visited{
     position: absolute;
     top:40%;
     left:60%;
-    right:100%;
     transform: translate(-40%, -40%);
 }
 .grid{
